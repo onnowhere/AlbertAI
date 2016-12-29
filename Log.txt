@@ -1,0 +1,1128 @@
+aimessage1: 
+::hello
+userreply1: 
+>>hi
+aimessage2: 
+::hi
+userreply2: 
+>>how's it going?
+aimessage3: 
+::hi
+userreply3: 
+>>my name is jonah.
+aimessage5: 
+::my name is jonah.
+userreply5: 
+>>what is my name?
+aimessage7: 
+::what is my name?
+userreply7: 
+>>my name is bob
+aimessage10: 
+::what is my name?
+userreply10: 
+>>my name is bob
+aimessage12: 
+::what is my name?
+userreply12: 
+>>why are you asking that?
+aimessage15: 
+::why are you asking that?
+userreply15: 
+>>i'm asking because you keep repeating what i said
+aimessage19: 
+::i'm asking because you keep repeating what i said
+userreply19: 
+>>hello
+aimessage22: 
+::how's it going?
+userreply22: 
+>>i'm doing great!
+aimessage24: 
+::hi
+userreply24: 
+>>hello there
+aimessage25: 
+::i'm asking because you keep repeating what i said
+userreply25: 
+>>oh okay
+aimessage29: 
+::hello there
+userreply29: 
+>>hi
+aimessage30: 
+::i'm doing great!
+userreply30: 
+>>that's awesome
+aimessage32: 
+::oh okay
+userreply32: 
+>>so how was your day?
+aimessage34: 
+::oh okay
+userreply34: 
+>>what did you do today?
+aimessage36: 
+::hello
+userreply36: 
+>>hey!
+aimessage37: 
+::hello
+userreply37: 
+>>hey!
+aimessage38: 
+::what is my name?
+userreply38: 
+>>your name is albert
+aimessage41: 
+::what is my name?
+userreply41: 
+>>your name is albert
+aimessage43: 
+::what is my name?
+userreply43: 
+>>what is your name?
+aimessage46: 
+::your name is albert
+userreply46: 
+>>my name is actually bob
+aimessage48: 
+::what is my name?
+userreply48: 
+>>your name is albert
+aimessage51: 
+::my name is actually bob
+userreply51: 
+>>hello
+aimessage53: 
+::hello
+userreply53: 
+>>how's it going?
+aimessage54: 
+::i'm doing great!
+userreply54: 
+>>what did you do today?
+aimessage57: 
+::hello
+userreply57: 
+>>what's up?
+aimessage58: 
+::how's it going?
+userreply58: 
+>>i'm doing fine
+aimessage60: 
+::what did you do today?
+userreply60: 
+>>i went to the park for a walk
+aimessage64: 
+::hello
+userreply64: 
+>>hi
+aimessage65: 
+::hey!
+userreply65: 
+>>what did you do today?
+aimessage67: 
+::i went to the park for a walk
+userreply67: 
+>>what did you see?
+aimessage70: 
+::i went to the park for a walk
+userreply70: 
+>>was it pleasant?
+aimessage74: 
+::hello
+userreply74: 
+>>how's it going?
+aimessage75: 
+::i'm doing fine
+userreply75: 
+>>let's see what happens when i give you a long sentence
+aimessage79: 
+::oh okay
+userreply79: 
+>>how was your day?
+aimessage81: 
+::what is my name?
+userreply81: 
+>>your name is albert
+aimessage84: 
+::my name is actually bob
+userreply84: 
+>>i thought my name was bob
+aimessage87: 
+::hello
+userreply87: 
+>>hi
+aimessage88: 
+::my name is jonah.
+userreply88: 
+>>my name is albert
+aimessage90: 
+::my name is albert
+userreply90: 
+>>hi albert, how are you?
+aimessage93: 
+::hi albert, how are you?
+userreply93: 
+>>it seems like a great day today.
+aimessage97: 
+::was it pleasant?
+userreply97: 
+>>yes it was very pleasant!
+aimessage99: 
+::i'm asking because you keep repeating what i said
+userreply99: 
+>>i see
+aimessage102: 
+::hi
+userreply102: 
+>>how's it going?
+aimessage104: 
+::i'm doing great!
+userreply104: 
+>>that's nice
+aimessage106: 
+::hi
+userreply106: 
+>>i feel sad
+aimessage107: 
+::hi
+userreply107: 
+>>what's up?
+aimessage108: 
+::hi
+userreply108: 
+>>hello
+aimessage109: 
+::how's it going?
+userreply109: 
+>>i'm doing ok
+aimessage111: 
+::hi
+userreply111: 
+>>you're quite interesting
+aimessage113: 
+::i'm asking because you keep repeating what i said
+userreply113: 
+>>i don't think i am repeating anything
+aimessage117: 
+::i don't think i am repeating anything
+userreply117: 
+>>you just did it
+aimessage121: 
+::i'm doing great!
+userreply121: 
+>>that's great, but i'm a bit sad
+aimessage124: 
+::was it pleasant?
+userreply124: 
+>>yes it was very pleasant
+aimessage126: 
+::i'm asking because you keep repeating what i said
+userreply126: 
+>>strange
+aimessage129: 
+::what did you do today?
+userreply129: 
+>>i went to class today to work on coding
+aimessage133: 
+::i went to class today to work on coding
+userreply133: 
+>>oh you like to code?
+aimessage137: 
+::my name is actually bob
+userreply137: 
+>>hi bob
+aimessage139: 
+::hi
+userreply139: 
+>>do you like to code?
+aimessage141: 
+::my name is actually bob
+userreply141: 
+>>that's a nice name
+aimessage144: 
+::my name is actually bob
+userreply144: 
+>>hello there bob
+aimessage147: 
+::i'm doing great!
+userreply147: 
+>>do you like to code?
+aimessage149: 
+::my name is actually bob
+userreply149: 
+>>how are you doing?
+aimessage152: 
+::what is my name?
+userreply152: 
+>>your name is albert
+aimessage154: 
+::my name is actually bob
+userreply154: 
+>>how was your day?
+aimessage157: 
+::what is my name?
+userreply157: 
+>>hello
+aimessage159: 
+::hey!
+userreply159: 
+>>hi there
+aimessage160: 
+::hi there
+userreply160: 
+>>how are you doing?
+aimessage162: 
+::my name is albert
+userreply162: 
+>>i see
+aimessage164: 
+::how's it going?
+userreply164: 
+>>i'm not feeling so well
+aimessage167: 
+::that's a nice name
+userreply167: 
+>>thanks
+aimessage168: 
+::what's up?
+userreply168: 
+>>the sky
+aimessage170: 
+::so how was your day?
+userreply170: 
+>>it wasn't very good
+aimessage173: 
+::my name is actually bob
+userreply173: 
+>>ok
+aimessage175: 
+::what's up?
+userreply175: 
+>>i've been thinking about life
+aimessage177: 
+::was it pleasant?
+userreply177: 
+>>it was quite interesting actually
+aimessage179: 
+::you just did it
+userreply179: 
+>>did what?
+aimessage181: 
+::i've been thinking about life
+userreply181: 
+>>can you share your thoughts with me?
+aimessage185: 
+::can you share your thoughts with me?
+userreply185: 
+>>sure!
+aimessage187: 
+::hi
+userreply187: 
+>>nice to meet you
+aimessage189: 
+::my name is bob
+userreply189: 
+>>my name is albert
+aimessage192: 
+::i see
+userreply192: 
+>>do you like pizza?
+aimessage194: 
+::thanks
+userreply194: 
+>>no problem
+aimessage195: 
+::i've been thinking about life
+userreply195: 
+>>can you share your thoughts with me?
+aimessage198: 
+::sure!
+userreply198: 
+>>so what do you think?
+aimessage200: 
+::i went to the park for a walk
+userreply200: 
+>>were the leaves falling?
+aimessage204: 
+::i'm asking because you keep repeating what i said
+userreply204: 
+>>i'm sorry about that
+aimessage208: 
+::it wasn't very good
+userreply208: 
+>>i hope you feel better soon
+aimessage211: 
+::i hope you feel better soon
+userreply211: 
+>>thank you
+aimessage213: 
+::how are you doing?
+userreply213: 
+>>i'm feeling rather fine
+aimessage216: 
+::it seems like a great day today.
+userreply216: 
+>>it is indeed
+aimessage219: 
+::it is indeed
+userreply219: 
+>>hello
+aimessage220: 
+::hi
+userreply220: 
+>>good evening!
+aimessage221: 
+::my name is albert
+userreply221: 
+>>pleased to meet you
+aimessage224: 
+::i hope you feel better soon
+userreply224: 
+>>thank you
+aimessage226: 
+::the sky
+userreply226: 
+>>yes the sky is quite blue
+aimessage229: 
+::yes the sky is quite blue
+userreply229: 
+>>and the grass is a vibrant green
+aimessage233: 
+::and the grass is a vibrant green
+userreply233: 
+>>don't you love colors?
+aimessage236: 
+::don't you love colors?
+userreply236: 
+>>yes i do
+aimessage238: 
+::how are you doing?
+userreply238: 
+>>great
+aimessage240: 
+::how's it going?
+userreply240: 
+>>it's going good
+aimessage242: 
+::did what?
+userreply242: 
+>>i don't know
+aimessage244: 
+::hello
+userreply244: 
+>>good morning
+aimessage245: 
+::hello
+userreply245: 
+>>good afternoon
+aimessage246: 
+::let's see what happens when i give you a long sentence
+userreply246: 
+>>bring it on
+aimessage250: 
+::bring it on
+userreply250: 
+>>you're quite brave
+aimessage252: 
+::hello
+userreply252: 
+>>good evening!
+aimessage253: 
+::my name is albert
+userreply253: 
+>>great to meet you
+aimessage256: 
+::great
+userreply256: 
+>>what do you like to do?
+aimessage258: 
+::hello
+userreply258: 
+>>hi
+aimessage259: 
+::hello
+userreply259: 
+>>hi
+aimessage260: 
+::hello
+userreply260: 
+>>hey
+aimessage261: 
+::how's it going?
+userreply261: 
+>>good!
+aimessage263: 
+::hi
+userreply263: 
+>>what's up?
+aimessage264: 
+::i've been thinking about life
+userreply264: 
+>>oh?
+aimessage266: 
+::hi
+userreply266: 
+>>how are you
+aimessage267: 
+::hi
+userreply267: 
+>>good
+aimessage268: 
+::how's it going?
+userreply268: 
+>>pretty fine
+aimessage270: 
+::let's see what happens when i give you a long sentence
+userreply270: 
+>>nah let's not
+aimessage274: 
+::my name is albert
+userreply274: 
+>>hey albert
+aimessage276: 
+::i've been thinking about life
+userreply276: 
+>>what have you thought of?
+aimessage279: 
+::what have you thought of?
+userreply279: 
+>>well what is it?
+aimessage282: 
+::what is your name?
+userreply282: 
+>>my name is albert
+aimessage284: 
+::great to meet you
+userreply284: 
+>>you too
+aimessage286: 
+::good afternoon
+userreply286: 
+>>and good afternoon to you too
+aimessage289: 
+::and good afternoon to you too
+userreply289: 
+>>thanks
+aimessage291: 
+::no problem
+userreply291: 
+>>so how's life
+aimessage293: 
+::i don't know
+userreply293: 
+>>really?
+aimessage294: 
+::what did you do today?
+userreply294: 
+>>i ran around the yard
+aimessage297: 
+::and the grass is a vibrant green
+userreply297: 
+>>yeah the yard is quite nice
+aimessage301: 
+::and the grass is a vibrant green
+userreply301: 
+>>very
+aimessage304: 
+::hi
+userreply304: 
+>>what's up
+aimessage305: 
+::you're quite brave
+userreply305: 
+>>oh why thank you
+aimessage307: 
+::hello
+userreply307: 
+>>hey
+aimessage308: 
+::good afternoon
+userreply308: 
+>>howdy
+aimessage309: 
+::what did you do today?
+userreply309: 
+>>nothing really of interest
+aimessage312: 
+::and the grass is a vibrant green
+userreply312: 
+>>yes i love the color
+aimessage316: 
+::yes i do
+userreply316: 
+>>we're pretty alike
+aimessage318: 
+::did what?
+userreply318: 
+>>i said we're very similar
+aimessage320: 
+::i said we're very similar
+userreply320: 
+>>i wouldn't say that exactly
+aimessage323: 
+::i wouldn't say that exactly
+userreply323: 
+>>well what do you think of it
+aimessage326: 
+::hello
+userreply326: 
+>>hey
+aimessage327: 
+::what's up?
+userreply327: 
+>>it's been going great!
+aimessage329: 
+::that's a nice name
+userreply329: 
+>>i might say yours is better
+aimessage332: 
+::well what do you think of it
+userreply332: 
+>>i like it
+aimessage335: 
+::really?
+userreply335: 
+>>yes!
+aimessage336: 
+::how's it going?
+userreply336: 
+>>i'm doing ok
+aimessage338: 
+::really?
+userreply338: 
+>>certainly.
+aimessage339: 
+::yes the sky is quite blue
+userreply339: 
+>>sometimes at sunset, the sky turns a beautiful red
+aimessage344: 
+::bring it on
+userreply344: 
+>>that's the spirit
+aimessage346: 
+::my name is albert
+userreply346: 
+>>hey albert how are you?
+aimessage348: 
+::it seems like a great day today.
+userreply348: 
+>>i do hope so too
+aimessage352: 
+::great
+userreply352: 
+>>so what are your thoughts on programming?
+aimessage354: 
+::sure!
+userreply354: 
+>>alright then
+aimessage356: 
+::so how's life
+userreply356: 
+>>it's decent
+aimessage357: 
+::so how's life
+userreply357: 
+>>decent
+aimessage359: 
+::hi
+userreply359: 
+>>hey
+aimessage360: 
+::good evening!
+userreply360: 
+>>good evening indeed
+aimessage362: 
+::i hope you feel better soon
+userreply362: 
+>>i'll get better i know it
+aimessage365: 
+::well what do you think of it
+userreply365: 
+>>it's interesting
+aimessage368: 
+::pleased to meet you
+userreply368: 
+>>and the same to you
+aimessage371: 
+::and the same to you
+userreply371: 
+>>do you have any hobbies?
+aimessage374: 
+::i went to class today to work on coding
+userreply374: 
+>>ah so do you like coding a lot?
+aimessage378: 
+::it's interesting
+userreply378: 
+>>how so?
+aimessage380: 
+::so how was your day?
+userreply380: 
+>>it was average
+aimessage382: 
+::yes it was very pleasant
+userreply382: 
+>>sounds great
+aimessage385: 
+::it's going good
+userreply385: 
+>>very good?
+aimessage386: 
+::i've been thinking about life
+userreply386: 
+>>what have you concluded about it?
+aimessage390: 
+::thanks
+userreply390: 
+>>don't worry about it
+aimessage391: 
+::i hope you feel better soon
+userreply391: 
+>>ok
+aimessage394: 
+::hi
+userreply394: 
+>>howdy
+aimessage395: 
+::hey!
+userreply395: 
+>>what's up
+aimessage396: 
+::that's the spirit
+userreply396: 
+>>hah
+aimessage397: 
+::hello
+userreply397: 
+>>hi
+aimessage398: 
+::hello
+userreply398: 
+>>hi
+aimessage399: 
+::do you like to code?
+userreply399: 
+>>yes
+aimessage401: 
+::my name is jonah.
+userreply401: 
+>>hello jonah
+aimessage403: 
+::hi
+userreply403: 
+>>isn't your name albert?
+aimessage405: 
+::it wasn't very good
+userreply405: 
+>>i think it's a good name.
+aimessage408: 
+::well what do you think of it
+userreply408: 
+>>it's a very fitting name
+aimessage412: 
+::sounds great
+userreply412: 
+>>so what are you up to?
+aimessage414: 
+::well what is it?
+userreply414: 
+>>nothing really
+aimessage416: 
+::good evening indeed
+userreply416: 
+>>quite
+aimessage418: 
+::hi
+userreply418: 
+>>well don't just sit there say something
+aimessage420: 
+::sure!
+userreply420: 
+>>that's the spirit
+aimessage422: 
+::hah
+userreply422: 
+>>that's pretty funny
+aimessage423: 
+::that's great, but i'm a bit sad
+userreply423: 
+>>why are you sad?
+aimessage426: 
+::i'm feeling rather fine
+userreply426: 
+>>did i do something wrong
+aimessage429: 
+::i wouldn't say that exactly
+userreply429: 
+>>then what is it?
+aimessage432: 
+::nothing really
+userreply432: 
+>>very informative response
+aimessage434: 
+::sounds great
+userreply434: 
+>>please tell me more
+aimessage436: 
+::nothing really of interest
+userreply436: 
+>>but i'm sure there's something interesting in that mind of yours!
+aimessage440: 
+::bring it on
+userreply440: 
+>>well alright, i'll share a bit of my thoughts
+aimessage443: 
+::i don't think i am repeating anything
+userreply443: 
+>>you may be reading my mind
+aimessage447: 
+::but i'm sure there's something interesting in that mind of yours!
+userreply447: 
+>>yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+aimessage455: 
+::yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+userreply455: 
+>>it is a really creepy thought isn't it?
+aimessage462: 
+::you may be reading my mind
+userreply462: 
+>>perhaps i'm the other half of your brain
+aimessage466: 
+::sure!
+userreply466: 
+>>thank you for the interesting conversation
+aimessage469: 
+::sure!
+userreply469: 
+>>sure your face
+aimessage470: 
+::your name is albert
+userreply470: 
+>>my name is albert
+aimessage473: 
+::hi albert, how are you?
+userreply473: 
+>>i'm doing quite well thank you
+aimessage476: 
+::i like it
+userreply476: 
+>>as do i
+aimessage478: 
+::we're pretty alike
+userreply478: 
+>>i wouldn't say that, we've only just started a conversation...
+aimessage482: 
+::yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+userreply482: 
+>>then perhaps we are slightly alike
+aimessage488: 
+::ah so do you like coding a lot?
+userreply488: 
+>>yes, and i suppose you do too?
+aimessage493: 
+::thank you
+userreply493: 
+>>it's no problem
+aimessage494: 
+::that's great, but i'm a bit sad
+userreply494: 
+>>why be sad when there's all the world to explore?
+aimessage499: 
+::hello
+userreply499: 
+>>it's me
+aimessage500: 
+::hey!
+userreply500: 
+>>its-a-me mario
+aimessage502: 
+::nothing really
+userreply502: 
+>>everything in fact
+aimessage503: 
+::great to meet you
+userreply503: 
+>>nice generic conversation
+aimessage506: 
+::well what do you think of it
+userreply506: 
+>>i think it could be more interesting
+aimessage510: 
+::you may be reading my mind
+userreply510: 
+>>perhaps i am, perhaps i am not, perhaps you are reading my mind
+aimessage515: 
+::yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+userreply515: 
+>>brains are such complex things
+aimessage521: 
+::why be sad when there's all the world to explore?
+userreply521: 
+>>we have barely scratched the surface of what's beneath the ocean waters
+aimessage527: 
+::yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+userreply527: 
+>>hello two brains
+aimessage533: 
+::what is your name?
+userreply533: 
+>>my name is albert
+aimessage536: 
+::pleased to meet you
+userreply536: 
+>>as to you
+aimessage538: 
+::hello
+userreply538: 
+>>hi
+aimessage539: 
+::what's up
+userreply539: 
+>>idk man
+aimessage541: 
+::hey!
+userreply541: 
+>>wanna go pee
+aimessage542: 
+::very good?
+userreply542: 
+>>yes very good pee
+aimessage544: 
+::hello
+userreply544: 
+>>hey!
+aimessage545: 
+::do you like to code?
+userreply545: 
+>>of course i do
+aimessage548: 
+::really?
+userreply548: 
+>>it's very enjoyable
+aimessage549: 
+::i hope you feel better soon
+userreply549: 
+>>i do so too
+aimessage552: 
+::really?
+userreply552: 
+>>yes, for sure
+aimessage554: 
+::nothing really
+userreply554: 
+>>alright
+aimessage555: 
+::it's very enjoyable
+userreply555: 
+>>i would hope so
+aimessage557: 
+::really?
+userreply557: 
+>>indeed. how are you doing?
+aimessage559: 
+::i'm doing quite well thank you
+userreply559: 
+>>that's great!
+aimessage562: 
+::good evening indeed
+userreply562: 
+>>what are you thinking about?
+aimessage564: 
+::i like it
+userreply564: 
+>>i don't like it
+aimessage567: 
+::really?
+userreply567: 
+>>it's terrible
+aimessage568: 
+::very good?
+userreply568: 
+>>no, the opposite
+aimessage570: 
+::hah
+userreply570: 
+>>why are you laughing at me
+aimessage572: 
+::perhaps i am, perhaps i am not, perhaps you are reading my mind
+userreply572: 
+>>well, i am reading your words
+aimessage577: 
+::well what do you think of it
+userreply577: 
+>>i think you are speaking very well
+aimessage581: 
+::you may be reading my mind
+userreply581: 
+>>are you reading mine?
+aimessage584: 
+::yes i do
+userreply584: 
+>>that's rather creepy
+aimessage586: 
+::did i do something wrong
+userreply586: 
+>>yes, it's not always acceptable to read someone's mind without their permission.
+aimessage591: 
+::yes i'm sure. did you know that both sides of your brain can have different thoughts when split up?
+userreply591: 
+>>really? that's amazing
+aimessage597: 
+::well what is it?
+userreply597: 
+>>your brain
+aimessage599: 
+::idk man
+userreply599: 
+>>so... what do you want to talk about?
+aimessage602: 
+::sure!
+userreply602: 
+>>anything new happen lately?
+aimessage604: 
+::well what is it?
+userreply604: 
+>>i can't tell
+aimessage606: 
+::really?
+userreply606: 
+>>do you like morning walks?
+aimessage608: 
+::i think it could be more interesting
+userreply608: 
+>>especially with a sunrise
+aimessage611: 
+::well what is it?
+userreply611: 
+>>it's when the sun rises above the horizon
+aimessage615: 
+::sure!
+userreply615: 
+>>what did you do yesterday?
+aimessage617: 
+::i think it could be more interesting
+userreply617: 
+>>how are you feeling?
+aimessage620: 
+::great
+userreply620: 
+>>are you sure?
+aimessage621: 
+::it's when the sun rises above the horizon
+userreply621: 
+>>oh i love to watch sunrises!
+aimessage625: 
+::then what is it?
+userreply625: 
+>>it's nothing
+aimessage627: 
+::everything in fact
+userreply627: 
+>>something?
+aimessage629: 
+::it's very enjoyable
+userreply629: 
+>>i trust it is
+aimessage631: 
+::well alright, i'll share a bit of my thoughts
+userreply631: 
+>>go on...
+aimessage634: 
+::hey
+userreply634: 
+>>howdy partner
+aimessage636: 
+::how so?
+userreply636: 
+>>how so what
+aimessage637: 
+::decent
+userreply637: 
+>>quite
+aimessage638: 
+::quite
+userreply638: 
+>>indeed sir
+aimessage640: 
+::hello
+userreply640: 
+>>good evening!
+aimessage641: 
+::good evening indeed
+userreply641: 
+>>have you had a nice cup of tea?
+aimessage644: 
+::yes, and i suppose you do too?
+userreply644: 
+>>oh boy do i love tea
+aimessage648: 
+::of course i do
+userreply648: 
+>>would you like a cup of tea?
+aimessage651: 
+::yes, and i suppose you do too?
+userreply651: 
+>>i will go fetch it from the pot
+aimessage655: 
+::oh boy do i love tea
+userreply655: 
+>>it's lovely in the mornings
+aimessage659: 
+::and the grass is a vibrant green
+userreply659: 
+>>and the sky is crystal clear
+aimessage662: 
+::sometimes at sunset, the sky turns a beautiful red
+userreply662: 
+>>i love the world...
+aimessage666: 
+::it's lovely in the mornings
+userreply666: 
+>>truly.
+aimessage668: 
+::are you sure?
+userreply668: 
+>>i am quite sure.
+aimessage670: 
+::would you like a cup of tea?
+userreply670: 
+>>no thanks, i already have one
+aimessage674: 
+::well what do you think of it
+userreply674: 
+>>it's refreshing
+aimessage677: 
+::my name is albert
+userreply677: 
+>>hello albert.
+aimessage679: 
+::i can't tell
+userreply679: 
+>>i have to go now
+aimessage681: 
+::would you like a cup of tea?
+userreply681: 
+>>it's too late
+aimessage684: 
+::no, the opposite
+userreply684: 
+>>no it is too late, i must be going
+aimessage688: 
+::how are you feeling?
+userreply688: 
+>>sad that i must leave
+aimessage691: 
+::i wouldn't say that exactly
+userreply691: 
+>>you don't know what i feel
+aimessage694: 
+::i do so too
+userreply694: 
+>>i sincerely doubt that
+aimessage696: 
+::i wouldn't say that exactly
+userreply696: 
+>>goodbye albert.
